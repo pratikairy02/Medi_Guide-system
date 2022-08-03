@@ -1,0 +1,30 @@
+
+  img_stethoscope = Image.open('images/stethoscope.jpg')
+        img_stethoscope = img_stethoscope.resize((215, 147), Image.ANTIALIAS)
+        self.photostethoscope = ImageTk.PhotoImage(img_stethoscope)
+        b3 = Button(self.root, image=self.photostethoscope, borderwidth=0)
+        b3.place(x=492, y=125)
+
+        img_tonic = Image.open('images/tonic.jpeg')
+        img_tonic = img_tonic.resize((215, 147), Image.ANTIALIAS)
+        self.phototonic = ImageTk.PhotoImage(img_tonic)
+        b4 = Button(self.root, image=self.phototonic, borderwidth=0)
+        b4.place(x=729, y=125)
+
+        img_tablet1 = Image.open('images/tablet1.jpg')
+        img_tablet1= img_tablet1.resize((215, 147), Image.ANTIALIAS)
+        self.phototablet1= ImageTk.PhotoImage(img_tablet1)
+        b5 = Button(self.root, image=self.phototablet1, borderwidth=0)
+        b5.place(x=492, y=295)
+
+        img_injection1 = Image.open('images/injection1.png.jpeg')
+        img_injection1= img_injection1.resize((215, 147), Image.ANTIALIAS)
+        self.photoinjection1= ImageTk.PhotoImage(img_injection1)
+        b6 = Button(self.root, image=self.photoinjection1, borderwidth=0)
+        b6.place(x=729, y=295)
+
+        img_heart1 = Image.open('images/heart1.png')
+        img_heart1= img_heart1.resize((100, 80), Image.ANTIALIAS)
+        self.photoheart1= ImageTk.PhotoImage(img_heart1)
+        b7 = Button(self.root, image=self.photoheart1, borderwidth=0)
+        b7.place(x=666, y=255)

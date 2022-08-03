@@ -1,0 +1,13 @@
+Name:	sidd
+ID:	sidd01
+GN:	Male
+Age:	20
+SX:	chamdi
+M_Name:	choco
+M_Price:	0
+DOP:	2022-03-30
+MFG:	2022-03-30
+EXP:	2022-03-30
+Ref:	dr Pratik
+Dose:	when needed
+

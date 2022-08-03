@@ -1,0 +1,13 @@
+Name:	Pratik airy
+ID:	x5
+GN:	Female
+Age:	19
+SX:	all good
+M_Name:	juice
+M_Price:	100
+DOP:	2022-03-29
+MFG:	2022-03-29
+EXP:	2022-03-29
+Ref:	me
+Dose:	as per conern
+
